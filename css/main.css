@@ -1,0 +1,17 @@
+body {
+    font-family: 'Roboto Flex', sans-serif;
+}
+
+.section-title {
+    font-family: 'Pacifico', cursive;
+}
+
+.text-colored {
+    color: #dc6b2e;
+}
+
+#fale-conosco button {
+    background-color: #dc6b2e;
+    width: 100%;
+    color: #fff;
+}
